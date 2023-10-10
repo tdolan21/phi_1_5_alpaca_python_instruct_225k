@@ -13,6 +13,9 @@ This repository provides an implementation for training a causal language model 
     Pandas
     json
 
+```bash
+pip install -r requirements.txt
+```
 ## Installation
 
 Clone the repository:
