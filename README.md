@@ -15,12 +15,12 @@ This repository provides an implementation for training a causal language model 
 
 ## Installation
 
-    Clone the repository:
+Clone the repository:
     ```bash
     git clone https://github.com/your-github-username/your-repo-name.git
     ```
 
-    Install the required packages:
+Install the required packages:
     ```bash
     pip install -r requirements.txt
     ```
@@ -39,7 +39,7 @@ Training the Model
 To train the model, simply run the main script.
 
 ```bash
-python main.py
+python phinetune.py
 ```
 
 Here's a brief overview of what the script does:
